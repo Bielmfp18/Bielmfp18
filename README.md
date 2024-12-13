@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Estudando igual um cachorro.
 - ✅ Estou certo de que meus erros me darão ideias novas.
 
-
+<div style="display: inline block"><br>
             <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
             <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
           
             <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-
+</div>
           
             <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
