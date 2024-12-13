@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 Por enquanto estou resolvendo problemas de programação.
 - 💬 Pergunte-me sobre C# e HTML ficarei feliz em responder.
 - 📫 How to reach me: gabrielmartins180706@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: Estudando igual um cachorro.
 - ✅ Estou certo de que meus erros me darão ideias novas.
