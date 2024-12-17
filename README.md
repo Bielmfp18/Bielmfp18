@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 </div>
 <hr>
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
+ <img align="center" alt="mysql" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
            
           
