@@ -45,9 +45,15 @@ Versão desktop do sistema da academia Stay Fit, voltada para controle local e g
 
 ### 📦 Principais Repositórios
 
-| 🍖 [**Modelophp**](https://github.com/Bielmfp18/modelophp) | 💡 [**Programação C**](https://github.com/Bielmfp18/programacaoC) |
-|:--|:--|
-| Sistema web para administração de uma churrascaria, com funcionalidades de pedidos, cardápio e atendimento. <br>• **PHP** | Repositório com estudos da linguagem C: fundamentos, desafios e exercícios resolvidos com explicações. <br>• **C** |
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Bielmfp18&repo=modelophp&theme=blue"
+    alt="modelophp" />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Bielmfp18&repo=programacaoC&theme=blue"
+    alt="programacaoC" />
+</div>
 
 ---
 
