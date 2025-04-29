@@ -33,14 +33,6 @@ Sinta-se à vontade para deixar comentários, tirar dúvidas ou compartilhar sug
 
 ---
 
-### 📦 Principais Repositórios
-
-🍖 modelophp -> Sistema web desenvolvido para auxiliar a administração de uma churrascaria, com funcionalidades como controle de pedidos, gestão de cardápio e atendimento ao cliente. Utiliza PHP, JavaScript, HTML, CSS e banco de dados SQL.
-
-💡 programacaoC -> Repositório dedicado ao estudo dos fundamentos da linguagem C, com exemplos práticos, desafios resolvidos e códigos comentados.
-
----
-
 ### 🏋️‍♂️ Projetos em que Trabalhei
 
 💻 Stay Fit - Web (Codify System) ->
@@ -58,5 +50,11 @@ Versão desktop do sistema da academia Stay Fit, voltada para controle local e g
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bielmfp18&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+---
+
+### 📦 Principais Repositórios 
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;"> <a href="https://github.com/Bielmfp18/modelophp" target="_blank" style="text-decoration: none;"> <div style="border: 1px solid #ccc; border-radius: 8px; padding: 15px; width: 300px; background-color: #0d1117;"> <h3 style="color: #cddc39;">🍖 Modelophp</h3> <p style="color: #9ae6b4;">Sistema web para administração de uma churrascaria, com funcionalidades de pedidos, cardápio e atendimento.</p> <p style="color: #6c63ff;">● PHP</p> </div> </a> <a href="https://github.com/Bielmfp18/programacaoC" target="_blank" style="text-decoration: none;"> <div style="border: 1px solid #ccc; border-radius: 8px; padding: 15px; width: 300px; background-color: #0d1117;"> <h3 style="color: #cddc39;">💡 Programação C</h3> <p style="color: #9ae6b4;">Repositório com estudos da linguagem C: fundamentos, desafios e exercícios resolvidos com explicações.</p> <p style="color: #ff6f61;">● C</p> </div> </a> </div>
+---
   
 > "Estou sempre em busca de aprender algo novo e aprimorar minhas habilidades, valorizando simplicidade e alto desempenho."
