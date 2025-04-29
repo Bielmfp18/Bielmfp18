@@ -46,9 +46,16 @@ Sinta-se à vontade para deixar comentários, tirar dúvidas ou compartilhar sug
 
 ### 📦 Principais Repositórios
 
-[![modelophp](https://github-readme-stats.vercel.app/api/pin?username=Bielmfp18&repo=modelophp&theme=tokyonight&cache_seconds=0)](https://github.com/Bielmfp18/modelophp)
-
-[![programacaoC](https://github-readme-stats.vercel.app/api/pin/?username=Bielmfp18&repo=programacaoC&theme=tokyonight&cache_seconds=0)](https://github.com/Bielmfp18/programacaoC)
+<table>
+  <tr>
+    <td>
+      [![modelophp](https://github-readme-stats.vercel.app/api/pin?username=Bielmfp18&repo=modelophp&theme=tokyonight)](https://github.com/Bielmfp18/modelophp)
+    </td>
+    <td>
+      [![programacaoC](https://github-readme-stats.vercel.app/api/pin/?username=Bielmfp18&repo=programacaoC&theme=tokyonight)](https://github.com/Bielmfp18/programacaoC)
+    </td>
+  </tr>
+</table>
 
 ---
 
