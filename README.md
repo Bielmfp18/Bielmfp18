@@ -33,4 +33,4 @@ Sinta-se à vontade para deixar comentários, tirar dúvidas ou compartilhar sug
 
 ---
 
-> “Estou sempre em busca de aprender algo novo e aprimorar minhas habilidades com simplicidade e desempenho!”  
+> "Estou sempre em busca de aprender algo novo e aprimorar minhas habilidades, valorizando simplicidade e alto desempenho."
