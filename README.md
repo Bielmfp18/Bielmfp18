@@ -1,5 +1,6 @@
 ## 👋 Olá! Eu sou Gabriel Martins Fortunato de Paula
 
+
 Seja bem-vindo ao meu espaço no GitHub! Aqui você encontrará meus projetos, habilidades, estatísticas e as tecnologias com as quais trabalho no dia a dia.  
 
 Sinta-se à vontade para deixar comentários, tirar dúvidas ou compartilhar sugestões em qualquer um dos meus projetos.
@@ -30,6 +31,7 @@ Sinta-se à vontade para deixar comentários, tirar dúvidas ou compartilhar sug
 ### 📫 Contato
 
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielmartins180706@gmail.com)  
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-martins-09297934b/)
 
 ---
@@ -46,24 +48,25 @@ Sinta-se à vontade para deixar comentários, tirar dúvidas ou compartilhar sug
 
 ### 📦 Principais Repositórios
 
-<table>
-  <tr>
-    <td>
-      [![modelophp](https://github-readme-stats.vercel.app/api/pin?username=Bielmfp18&repo=modelophp&theme=tokyonight)](https://github.com/Bielmfp18/modelophp)
-    </td>
-    <td>
-      [![programacaoC](https://github-readme-stats.vercel.app/api/pin/?username=Bielmfp18&repo=programacaoC&theme=tokyonight)](https://github.com/Bielmfp18/programacaoC)
-    </td>
-  </tr>
-</table>
+<div align="center">
+<a href="https://github.com/Bielmfp18/modelophp.git" style="text-decoration: none;">
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=Bielmfp18&repo=modelophp&theme=tokyonight&cache_seconds=0" width="325" height="150"/>
+</a>
+  <a href="https://github.com/Bielmfp18/programacaoC.git" style="text-decoration: none;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bielmfp18&repo=programacaoC&theme=tokyonight&cache_seconds=0" width="345" height="150"/>
+  </a>
+</div>
 
 ---
 
 ### 📊 Minhas Estatísticas no GitHub
 
-[![Estatísticas](https://github-readme-stats.vercel.app/api?username=Bielmfp18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/Bielmfp18?tab=repositories)  
-[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Bielmfp18&layout=compact&langs_count=7&theme=tokyonight)](https://github.com/Bielmfp18?tab=repositories)
+<div align="center">
+  <a href="https://github.com/Bielmfp18?tab=repositories" style="text-decoration: none;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bielmfp18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bielmfp18&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+</div><br><br>
 
----
 
 > “Estou sempre em busca de aprender algo novo e aprimorar minhas habilidades, valorizando simplicidade e alto desempenho.”
