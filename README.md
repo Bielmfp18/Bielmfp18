@@ -49,7 +49,9 @@ Sinta-se à vontade para deixar comentários, tirar dúvidas ou compartilhar sug
 ### 📦 Principais Repositórios
 
 <div align="center">
-
+  <a href="https://github.com/Bielmfp18/modelophp.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bielmfp18&repo=modelophp&theme=tokyonight" width="350" height="150"/>
+  </a>
   <a href="https://github.com/Bielmfp18/programacaoC.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bielmfp18&repo=programacaoC&theme=tokyonight" width="350" height="150"/>
   </a>
