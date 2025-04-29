@@ -43,10 +43,10 @@ Sinta-se à vontade para deixar comentários, tirar dúvidas ou compartilhar sug
 ### 📦 Principais Repositórios
 
 <div align="center">
-  <a href="https://github.com/Bielmfp18/modelophp">
+  <a href="https://github.com/Bielmfp18/modelophp" style = "display:none;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bielmfp18&repo=modelophp&theme=tokyonight" width="350" height="180em">
   </a>
-  <a href="https://github.com/Bielmfp18/programacaoC">
+  <a href="https://github.com/Bielmfp18/programacaoC" style = "display:none;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bielmfp18&repo=programacaoC&theme=tokyonight" width="350" height="180em">
   </a>
 </div>
@@ -58,6 +58,6 @@ Sinta-se à vontade para deixar comentários, tirar dúvidas ou compartilhar sug
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bielmfp18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bielmfp18&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+</div><br>
 
 > “Estou sempre em busca de aprender algo novo e aprimorar minhas habilidades, valorizando simplicidade e alto desempenho.”
