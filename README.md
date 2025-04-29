@@ -34,15 +34,13 @@ Sinta-se à vontade para explorar, comentar ou abrir uma issue em qualquer repos
 
 ### 💼 Projetos em que Trabalhei
 
-
 <div align="center">
 
-
-<a href="https://github.com/Codify-Systems/StayFit-Web.git">
+<a href="https://github.com/Codify-Systems/stayfit-web">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Codify-Systems&repo=stayfit-web&theme=tokyonight" width="300" height="150"/>
 </a>
 
-<a href="https://github.com/Bielmfp18/stayfit-desktop">
+<a href="https://github.com/Codify-Systems/stayfit-desktop">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Codify-Systems&repo=stayfit-desktop&theme=tokyonight" width="300" height="150"/>
 </a>
 
@@ -65,7 +63,6 @@ Sinta-se à vontade para explorar, comentar ou abrir uma issue em qualquer repos
 </div>
 
 ---
-
 
 ### 📊 Minhas Estatísticas no GitHub
 
