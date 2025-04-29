@@ -60,6 +60,4 @@ Sinta-se à vontade para deixar comentários, tirar dúvidas ou compartilhar sug
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bielmfp18&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
----
-
 > “Estou sempre em busca de aprender algo novo e aprimorar minhas habilidades, valorizando simplicidade e alto desempenho.”
