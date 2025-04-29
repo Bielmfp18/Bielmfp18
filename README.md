@@ -52,7 +52,7 @@ Sinta-se à vontade para deixar comentários, tirar dúvidas ou compartilhar sug
   </a>
 </div>
 
-
+---
 
 ### 📊 Minhas Estatísticas no GitHub
 
@@ -60,5 +60,7 @@ Sinta-se à vontade para deixar comentários, tirar dúvidas ou compartilhar sug
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bielmfp18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bielmfp18&layout=compact&langs_count=7&theme=tokyonight"/>
 </div><br><br><br>
+
+---
 
 > “Estou sempre em busca de aprender algo novo e aprimorar minhas habilidades, valorizando simplicidade e alto desempenho.”
