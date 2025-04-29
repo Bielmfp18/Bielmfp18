@@ -18,6 +18,8 @@ Sinta-se à vontade para deixar comentários, tirar dúvidas ou compartilhar sug
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="40" height="40"/>
 </div>
 
+---
+
 #### 🛠️ Em aprendizado
 
 <div align="left">
@@ -29,6 +31,7 @@ Sinta-se à vontade para deixar comentários, tirar dúvidas ou compartilhar sug
 ### 📫 Contato
 
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielmartins180706@gmail.com)  
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-martins-09297934b/)
 
 ---
@@ -36,7 +39,8 @@ Sinta-se à vontade para deixar comentários, tirar dúvidas ou compartilhar sug
 ### 💼 Projetos em que Trabalhei
 
 - **Stay Fit – Web (Codify System)**  
-  Aplicação web para gerenciar as operações da academia Stay Fit, com foco em acessibilidade e eficiência online.  
+  Aplicação web para gerenciar as operações da academia Stay Fit, com foco em acessibilidade e eficiência online.
+  
 - **Stay Fit – Desktop (Codify System)**  
   Versão desktop do sistema da academia Stay Fit, voltada para controle local e gerenciamento interno.
 
