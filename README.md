@@ -1,7 +1,6 @@
 ## 👋 Olá! Eu sou Gabriel Martins Fortunato de Paula
 
 Seja bem-vindo ao meu espaço no GitHub! Aqui você encontrará meus projetos, habilidades, estatísticas e as tecnologias com as quais trabalho no dia a dia.  
-
 Sinta-se à vontade para deixar comentários, tirar dúvidas ou compartilhar sugestões em qualquer um dos meus projetos.
 
 ---
@@ -44,15 +43,13 @@ Sinta-se à vontade para deixar comentários, tirar dúvidas ou compartilhar sug
 ### 📦 Principais Repositórios
 
 <div align="center">
-  <a href="https://github.com/Bielmfp18/modelophp" style = "display:none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bielmfp18&repo=modelophp&theme=tokyonight" width="350" height="180em">
+  <a href="https://github.com/Bielmfp18/modelophp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bielmfp18&repo=modelophp&theme=tokyonight" width="350" height="150"/>
   </a>
-  <a href="https://github.com/Bielmfp18/programacaoC" style = "display:none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bielmfp18&repo=programacaoC&theme=tokyonight" width="350" height="180em">
+  <a href="https://github.com/Bielmfp18/programacaoC">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bielmfp18&repo=programacaoC&theme=tokyonight" width="350" height="150"/>
   </a>
 </div>
-
----
 
 ### 📊 Minhas Estatísticas no GitHub
 
@@ -61,5 +58,6 @@ Sinta-se à vontade para deixar comentários, tirar dúvidas ou compartilhar sug
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bielmfp18&layout=compact&langs_count=7&theme=tokyonight"/>
 </div><br><br>
 
+---
 
 > “Estou sempre em busca de aprender algo novo e aprimorar minhas habilidades, valorizando simplicidade e alto desempenho.”
