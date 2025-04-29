@@ -52,9 +52,12 @@ Versão desktop do sistema da academia Stay Fit, voltada para controle local e g
 
 ---
 
-### 📦 Principais Repositórios 
+### 📦 Principais Repositórios
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;"> <a href="https://github.com/Bielmfp18/modelophp" target="_blank" style="text-decoration: none;"> <div style="border: 1px solid #ccc; border-radius: 8px; padding: 15px; width: 300px; background-color: #0d1117;"> <h3 style="color: #cddc39;">🍖 Modelophp</h3> <p style="color: #9ae6b4;">Sistema web para administração de uma churrascaria, com funcionalidades de pedidos, cardápio e atendimento.</p> <p style="color: #6c63ff;">● PHP</p> </div> </a> <a href="https://github.com/Bielmfp18/programacaoC" target="_blank" style="text-decoration: none;"> <div style="border: 1px solid #ccc; border-radius: 8px; padding: 15px; width: 300px; background-color: #0d1117;"> <h3 style="color: #cddc39;">💡 Programação C</h3> <p style="color: #9ae6b4;">Repositório com estudos da linguagem C: fundamentos, desafios e exercícios resolvidos com explicações.</p> <p style="color: #ff6f61;">● C</p> </div> </a> </div>
+| 🍖 [**Modelophp**](https://github.com/Bielmfp18/modelophp) | 💡 [**Programação C**](https://github.com/Bielmfp18/programacaoC) |
+|:--|:--|
+| Sistema web para administração de uma churrascaria, com funcionalidades de pedidos, cardápio e atendimento. <br>• **PHP** | Repositório com estudos da linguagem C: fundamentos, desafios e exercícios resolvidos com explicações. <br>• **C** |
+
 ---
   
 > "Estou sempre em busca de aprender algo novo e aprimorar minhas habilidades, valorizando simplicidade e alto desempenho."
