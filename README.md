@@ -1,6 +1,8 @@
 ## 👋 Olá! Eu sou Gabriel Martins Fortunato de Paula
 
+
 Seja bem-vindo ao meu espaço no GitHub! Aqui você encontrará meus projetos, habilidades, estatísticas e as tecnologias com as quais trabalho no dia a dia.  
+
 Sinta-se à vontade para deixar comentários, tirar dúvidas ou compartilhar sugestões em qualquer um dos meus projetos.
 
 ---
@@ -51,6 +53,8 @@ Sinta-se à vontade para deixar comentários, tirar dúvidas ou compartilhar sug
   </a>
 </div>
 
+---
+
 ### 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
@@ -58,6 +62,5 @@ Sinta-se à vontade para deixar comentários, tirar dúvidas ou compartilhar sug
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bielmfp18&layout=compact&langs_count=7&theme=tokyonight"/>
 </div><br><br>
 
----
 
 > “Estou sempre em busca de aprender algo novo e aprimorar minhas habilidades, valorizando simplicidade e alto desempenho.”
