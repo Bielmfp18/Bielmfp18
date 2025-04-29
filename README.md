@@ -44,14 +44,14 @@ Versão desktop do sistema da academia Stay Fit, voltada para controle local e g
 ---
 
 ### 📦 Principais Repositórios
-
-<div align="center">
+<!--theme=blue-->
+<div align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Bielmfp18&repo=modelophp&theme=blue"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Bielmfp18&repo=modelophp&theme=tokyonight"
     alt="modelophp" />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Bielmfp18&repo=programacaoC&theme=blue"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Bielmfp18&repo=programacaoC&theme=tokyonight"
     alt="programacaoC" />
 </div>
 
