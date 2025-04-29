@@ -48,23 +48,13 @@ Versão desktop do sistema da academia Stay Fit, voltada para controle local e g
 <table>
   <tr>
     <td valign="top" align="center">
-
-      <img 
-        src="https://github-readme-stats.vercel.app/api/pin/?username=Bielmfp18&repo=modelophp&theme=blue" 
-        alt="modelophp" />
-
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bielmfp18&repo=modelophp&theme=blue" alt="modelophp" />
     </td>
     <td valign="top" align="center">
-
-
-      <img 
-        src="https://github-readme-stats.vercel.app/api/pin/?username=Bielmfp18&repo=programacaoC&theme=blue" 
-        alt="programacaoC" />
-
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bielmfp18&repo=programacaoC&theme=blue" alt="programacaoC" />
     </td>
   </tr>
 </table>
-
 
 ---
 
