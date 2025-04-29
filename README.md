@@ -33,4 +33,32 @@ Sinta-se à vontade para deixar comentários, tirar dúvidas ou compartilhar sug
 
 ---
 
+### 📦 Principais Repositórios
+
+🍖 modelophp
+Sistema web desenvolvido para auxiliar a administração de uma churrascaria, com funcionalidades como controle de pedidos, gestão de cardápio e atendimento ao cliente. Utiliza PHP, JavaScript, HTML, CSS e banco de dados SQL.
+
+💡 programacaoC
+Repositório dedicado ao estudo dos fundamentos da linguagem C, com exemplos práticos, desafios resolvidos e códigos comentados.
+
+---
+
+### 🏋️‍♂️ Projetos em que Trabalhei
+
+💻 Stay Fit - Web (Codify System)
+Aplicação web desenvolvida para gerenciar as operações da academia Stay Fit, com foco em acessibilidade e eficiência online.
+
+🖥️ Stay Fit - Desktop (Codify System)
+Versão desktop do sistema da academia Stay Fit, voltada para controle local e gerenciamento interno.
+
+---
+
+### 📊 Minhas Estatísticas no GitHub
+
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bielmfp18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bielmfp18&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+  
 > "Estou sempre em busca de aprender algo novo e aprimorar minhas habilidades, valorizando simplicidade e alto desempenho."
