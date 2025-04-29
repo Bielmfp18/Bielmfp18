@@ -34,30 +34,21 @@ Sinta-se à vontade para explorar, comentar ou abrir uma issue em qualquer repos
 
 ### 💼 Projetos em que Trabalhei
 
-<div align="center">
-
-<a href="https://github.com/Codify-Systems/stayfit-web">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Codify-Systems&repo=stayfit-web&theme=tokyonight" width="300" height="150"/>
-</a>
-
-<a href="https://github.com/Codify-Systems/stayfit-desktop">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Codify-Systems&repo=stayfit-desktop&theme=tokyonight" width="300" height="150"/>
-</a>
-
-</div>
+ - **Stay Fit – Web (Codify System)**: Aplicação web para gerenciar operações da academia Stay Fit, com ênfase em acessibilidade e performance.
+ - **Stay Fit – Desktop (Codify System)**: Versão desktop voltada ao gerenciamento interno e controle de dados locais.
 
 ---
-
+ 
 ### 📦 Principais Repositórios
 
 <div align="center">
 
 <a href="https://github.com/Bielmfp18/modelophp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bielmfp18&repo=modelophp&theme=tokyonight" width="300" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bielmfp18&repo=modelophp&theme=tokyonight" width="350" height="150"/>
 </a>
 
 <a href="https://github.com/Bielmfp18/programacaoC">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bielmfp18&repo=programacaoC&theme=tokyonight" width="300" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bielmfp18&repo=programacaoC&theme=tokyonight" width="350" height="150"/>
 </a>
 
 </div>
