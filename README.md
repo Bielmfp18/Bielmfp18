@@ -29,8 +29,8 @@
     <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
     <hr><br>
     <h1>Meus Contatos</h1>
-  <a href = "mailto:gabrielmartins180706@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-martins-09297934b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href = "mailto:gabrielmartins180706@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt = "gmail" height="40" width="50" ></a>
+  <a href="https://www.linkedin.com/in/gabriel-martins-09297934b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "linkedin" height="40" width="50"></a>
 
 
            
