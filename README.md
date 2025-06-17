@@ -47,13 +47,6 @@ Sinta-se à vontade para deixar comentários, tirar dúvidas ou compartilhar sug
   <a href="https://github.com/Bielmfp18/programacaoC.git" style="text-decoration: none;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bielmfp18&repo=programacaoC&theme=tokyonight&cache_seconds=0" width="345" height="150"/>
   </a>
-   <!-- Repositório da clínica (em caixa visual personalizada) -->
-  <div style="display: inline-block; width: 325px; height: 150px; background-color: #1e293b; color: #ffffff; border: 1px solid #334155; border-radius: 6px; margin: 10px; padding: 15px; text-align: left;">
-    <a href="https://github.com/Bielmfp18/ClinicaPsicologia-WEB" style="color: #38bdf8; font-weight: bold; font-size: 16px; text-decoration: none;">📘 ClinicaPsicologia-WEB</a>
-    <p style="margin-top: 10px; font-size: 14px;">Sistema web para gestão de pacientes e sessões clínicas.</p>
-    <p style="font-size: 12px; color: #94a3b8;">🌐 PHP & MySQL</p>
-  </div>
-</div>
 
 
 ----
