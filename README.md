@@ -47,10 +47,15 @@ Sinta-se à vontade para deixar comentários, tirar dúvidas ou compartilhar sug
   <a href="https://github.com/Bielmfp18/programacaoC.git" style="text-decoration: none;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bielmfp18&repo=programacaoC&theme=tokyonight&cache_seconds=0" width="345" height="150"/>
   </a>
-  <a href="https://github.com/Bielmfp18/ClinicaPsicologia-WEB.git" style="text-decoration: none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bielmfp18&repo=ClinicaPsicologia-WEB&theme=tokyonight&cache_seconds=0" width="345" height="150"/>
-  </a>
+  
+  <br><br>
+  
+  <a href="https://github.com/Bielmfp18/ClinicaPsicologia-WEB" style="text-decoration: none; font-size: 16px;">
+    🔗 <strong>ClinicaPsicologia-WEB</strong>
+  </a><br>
+  <span>Sistema web para gestão de pacientes e sessões clínicas.</span>
 </div>
+
 
 ----
 
