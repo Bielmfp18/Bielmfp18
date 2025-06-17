@@ -52,7 +52,7 @@ Sinta-se à vontade para deixar comentários, tirar dúvidas ou compartilhar sug
   </a>
 </div>
 
----
+----
 
 ### 📊 Minhas Estatísticas no GitHub
 
