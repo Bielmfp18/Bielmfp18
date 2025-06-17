@@ -41,14 +41,14 @@ Sinta-se à vontade para deixar comentários, tirar dúvidas ou compartilhar sug
 ### 📦 Principais Repositórios
 
 <div align="center">
-<a href="https://github.com/Bielmfp18/modelophp.git" style="text-decoration: none;">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=Bielmfp18&repo=modelophp&theme=tokyonight&cache_seconds=0" width="325" height="150"/>
-</a>
+  <a href="https://github.com/Bielmfp18/modelophp.git" style="text-decoration: none;">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=Bielmfp18&repo=modelophp&theme=tokyonight&cache_seconds=0" width="325" height="150"/>
+  </a>
   <a href="https://github.com/Bielmfp18/programacaoC.git" style="text-decoration: none;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bielmfp18&repo=programacaoC&theme=tokyonight&cache_seconds=0" width="345" height="150"/>
   </a>
-   <a href="https://github.com/Bielmfp18/ClinicaPsicologia-WEB.git" style="text-decoration: none;">
-    <img src="https://github.com/Bielmfp18/ClinicaPsicologia-WEB.git?username=Bielmfp18&repo=ClinicaPsicologia-WEB&theme=tokyonight&cache_seconds=0" width="345" height="150"/>
+  <a href="https://github.com/Bielmfp18/ClinicaPsicologia-WEB.git" style="text-decoration: none;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bielmfp18&repo=ClinicaPsicologia-WEB&theme=tokyonight&cache_seconds=0" width="345" height="150"/>
   </a>
 </div>
 
