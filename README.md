@@ -17,17 +17,8 @@ Sinta-se à vontade para deixar comentários, tirar dúvidas ou compartilhar sug
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="40" height="40"/>
-</div>
-
----
-
-#### 🛠️ Em aprendizado
-
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="40" height="40"/>
 </div>
-
----
 
 ### 📫 Contato
 
@@ -55,6 +46,9 @@ Sinta-se à vontade para deixar comentários, tirar dúvidas ou compartilhar sug
 </a>
   <a href="https://github.com/Bielmfp18/programacaoC.git" style="text-decoration: none;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bielmfp18&repo=programacaoC&theme=tokyonight&cache_seconds=0" width="345" height="150"/>
+  </a>
+   <a href="https://github.com/Bielmfp18/ClinicaPsicologia-WEB.git" style="text-decoration: none;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bielmfp18&repo=ClinicaPsicologia-WEB&theme=tokyonight&cache_seconds=0" width="345" height="150"/>
   </a>
 </div>
 
